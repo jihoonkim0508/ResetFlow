@@ -1,0 +1,9 @@
+bin/
+obj/
+.vs/
+logs/
+backups/
+*.user
+*.suo
+*.rsuser
+*.local.json
